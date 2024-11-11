@@ -1,0 +1,187 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+/* Variables */
+$primary-color: #007acc; /* Customize this color if Akshita prefers a different primary color */
+$secondary-color: #005f99;
+$text-color: #333;
+$background-color: #f9f9f9;
+
+/* Global Styles */
+body {
+    background-color: $background-color;
+    color: $text-color;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+}
+
+a {
+    color: $primary-color;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: $secondary-color;
+}
+
+/* Smooth scrolling for better user experience */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Profile Section Styling */
+.profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    flex-wrap: wrap; /* Ensures it wraps on smaller screens */
+}
+
+.profile-photo {
+    border-radius: 50%;
+    width: 180px; /* Increased size for a more prominent profile photo */
+    height: 180px;
+    margin-right: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+.profile-info {
+    flex: 1;
+}
+
+/* Experience Section Styling */
+.experience-item {
+    margin-bottom: 25px;
+}
+
+.experience-item .role {
+    font-weight: bold;
+    color: $primary-color;
+}
+
+.experience-item .location-date {
+    font-style: italic;
+    color: #555;
+}
+
+/* Projects Section Styling */
+.projects {
+    margin-top: 30px;
+}
+
+.project-item {
+    margin-bottom: 25px;
+}
+
+.project-item h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: $primary-color;
+}
+
+.project-item p {
+    margin-bottom: 15px;
+}
+
+/* Skills Section Styling */
+.skills {
+    margin-top: 30px;
+}
+
+.skill-category {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: $primary-color;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Contact Info Styling */
+.contact-info {
+    list-style: none;
+    padding: 0;
+}
+
+.contact-info li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+
+.contact-info a {
+    color: $primary-color;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+/* Button Styling */
+.button {
+    background-color: $primary-color;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: $secondary-color;
+}
+
+/* Footer Styling */
+footer {
+    background-color: $primary-color;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+/* Navigation Styling */
+.nav {
+    background-color: $primary-color;
+    padding: 10px;
+}
+
+.nav a {
+    color: #fff;
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .profile {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .profile-photo {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .nav {
+        text-align: center;
+    }
+
+    .nav a {
+        display: inline-block;
+        margin: 5px;
+    }
+}
