@@ -4,7 +4,7 @@ title: "Akshita Lakkad | Welcome"
 ---
 
 <div class="profile">
-  <img src="assets/images/Akshita_Photo.jpg" alt="Akshita Lakkad" class="profile-photo">
+  <img src="assets/images/Akshita_Photo.jpeg" alt="Akshita Lakkad" class="profile-photo">
   <div class="profile-info">
     <h1>Welcome to my website!</h1>
     <p>I'm Akshita Lakkad, a Software Engineer passionate about Machine Learning, Cloud Computing, and building intelligent systems that solve real-world problems. Currently, I'm advancing my expertise with a Master's in Computer Science at New York University.</p>
