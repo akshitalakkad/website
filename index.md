@@ -8,7 +8,7 @@ title: "Akshita Lakkad | Welcome"
   <div class="profile-info">
     <h1>Welcome to my website!</h1>
     <p>I'm Akshita, a Software Engineer with a passion for Machine Learning and Cloud Computing. Explore my work and feel free to connect!</p>
-    <p><a href="Akshita_Lakkad_Resume.pdf" download>Download My Resume</a></p>
+    <p><a href="Akshita_Resume.pdf" download>Download My Resume</a></p>
   </div>
 </div>
 
