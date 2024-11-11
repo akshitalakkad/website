@@ -6,7 +6,7 @@ title: "Akshita Lakkad | Welcome"
 <div class="profile">
   <img src="assets/images/Akshita_Photo.jpeg" alt="Akshita Lakkad" class="profile-photo">
   <div class="profile-info">
-    <h1>Welcome to my website!</h1>
+    <h1>Hello Eveyone!!</h1>
     <p>I'm Akshita Lakkad, a Software Engineer at Microsoft with a focus on Cloud Computing, Machine Learning, and secure, scalable systems. My work spans developing AI-powered tools, CI/CD automation, and cloud infrastructure enhancements. Explore my projects, and feel free to connect!</p>
     <p><a href="Akshita_Lakkad_Resume.pdf" download>Download My Resume</a></p>
   </div>
