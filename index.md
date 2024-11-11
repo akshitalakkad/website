@@ -7,7 +7,7 @@ title: "Akshita Lakkad | Welcome"
   <img src="assets/images/Akshita_Photo.jpeg" alt="Akshita Lakkad" class="profile-photo">
   <div class="profile-info">
     <h1>Welcome to my website!</h1>
-    <p>I'm Akshita Lakkad, a Software Engineer passionate about Machine Learning, Cloud Computing, and building intelligent systems that solve real-world problems. Currently, I'm advancing my expertise with a Master's in Computer Science at New York University.</p>
+    <p>I'm Akshita Lakkad, a Software Engineer specializing in Machine Learning, Cloud Computing, and data-driven solutions. Currently, I'm advancing my career at Microsoft, where I apply my expertise to build intelligent and impactful systems. Feel free to explore my projects and connect with me!</p>
     <p><a href="Akshita_Lakkad_Resume.pdf" download>Download My Resume</a></p>
   </div>
 </div>
@@ -25,7 +25,7 @@ title: "Akshita Lakkad | Welcome"
 ---
 
 ## About Me <a name="about"></a>
-With a background in Computer Science, I'm driven by a commitment to apply technology in impactful ways. I have experience across diverse tech domains, from Machine Learning models to cloud-based solutions, gained through my roles at Microsoft and ZS Associates. My goal is to continually refine my skills and contribute to innovative projects that advance efficiency and intelligence in software.
+As a Software Engineer with a strong foundation in Computer Science, I’m driven by a passion for developing technologies that address complex challenges. At Microsoft, I work on Machine Learning models to enhance workflow efficiency, and my prior experience includes consulting roles that honed my skills in data management, automation, and cloud-based systems. My goal is to continually advance my expertise and contribute to innovative projects that make a measurable difference.
 
 ---
 
@@ -34,20 +34,22 @@ With a background in Computer Science, I'm driven by a commitment to apply techn
 ### Microsoft Corporation
 **Software Engineer Intern**  
 *May 2022 – Present*
-- Developed a machine learning model to predict build times of pull requests with 97% accuracy, enhancing CI pipeline efficiency.
-- Unified scattered data sources into a streamlined dataset to boost model performance.
-- Deployed the model within a retraining workflow on Azure Kubernetes to ensure adaptability to evolving data.
+- Developed a machine learning model with 97% accuracy to predict build times for pull requests, improving CI pipeline efficiency.
+- Collaborated with cross-functional teams to unify data from various sources, creating a streamlined dataset for enhanced model performance.
+- Leveraged transfer learning to deploy an autoencoder neural network in an ML lifecycle workflow using Azure Kubernetes, with ongoing re-training for optimized results.
 
 ### NYU IT – High Performance Computing
 **Student Consultant**  
 *July 2021 – May 2022*
-- Researched secure data environments and developed workflows to manage secure data transfer, enhancing NYU’s HPC capabilities for sensitive research data.
+- Conducted research on secure data environments, focusing on security frameworks and protocols for data management.
+- Developed workflows for data ingestion, transfer, and retrieval to optimize secure research data handling for NYU's HPC resources.
 
 ### ZS Associates
 **Business Technology Analyst**  
 *June 2019 – January 2021*
-- Automated data warehousing processes and created interactive dashboards, reducing client reporting time by 50%.
-- Conducted in-depth analysis of sales data to identify trends and anomalies, directly supporting strategic decision-making.
+- Automated data warehousing operations and built dashboards for enhanced data analysis and optimization.
+- Streamlined client deliverable processes, reducing turnaround time by 50% and providing actionable insights through data analysis.
+- Led the implementation and maintenance of Sales Crediting systems on AWS, ensuring accurate data handling and trend analysis.
 
 ---
 
@@ -63,7 +65,7 @@ With a background in Computer Science, I'm driven by a commitment to apply techn
 - SQL, ETL, AWS EMR, AWS RedShift, S3, Hadoop, DynamoDB, Spark, Spark-SQL
 
 ### Additional Skills
-- Machine Learning Algorithms, Natural Language Processing, Tableau, Jupyter, Dash
+- Machine Learning Algorithms, NLP, Tableau, Jupyter, Dash
 
 ---
 
@@ -85,30 +87,26 @@ With a background in Computer Science, I'm driven by a commitment to apply techn
 ### Reverse Visual Search
 **Technologies**: AWS, OpenSearch, DeepFace, ResNet CNN  
 *April 2022 – May 2022*
-- Built an image search engine that identifies artifacts based on visual queries.
-- Implemented facial embeddings using ResNet50 and enhanced model accuracy with FaceNet.
-- Deployed a kNN indexing instance on OpenSearch to retrieve similar images based on cosine similarity.
+- Created an image search engine that identifies visual artifacts, with baseline facial embeddings using ResNet50, later enhanced with FaceNet.
+- Deployed a kNN indexing instance in OpenSearch to locate images based on cosine similarity of facial embeddings.
 
 ### Stock Inflation Prediction by Social Media Analysis
 **Technologies**: AWS SageMaker, Kinesis, SQS, SNS, DynamoDB, Flask  
 *March 2021 – June 2021*
-- Built sentiment analysis models with NLP techniques to detect bubble stocks.
-- Streamed data from social media APIs and performed regression analysis for insights.
-- Developed a dynamic web app to visualize and present the findings.
+- Developed sentiment analysis models with NLP techniques to identify bubble stocks, streaming data from platforms like Twitter and Reddit.
+- Built a regression model to provide high-return, low-risk portfolio insights, presented via a dynamic web app.
 
 ### Spotify Data Prediction and Analytics
 **Technologies**: Python, Pandas, NumPy, SciPy  
 *June 2021 – August 2021*
-- Created a recommendation system with a 90% accuracy in predicting song skips.
-- Conducted feature importance analysis using random forest classifiers.
-- Analyzed over 160,000 tracks to understand engagement and optimize ad timing.
+- Built a recommendation system predicting song skips with 90% accuracy, performing feature importance analysis using random forests.
+- Analyzed data from over 160,000 tracks to determine optimal ad timing and engagement strategies.
 
 ### Smart Text-Voice Controlled Photo Album
 **Technologies**: AWS Lambda, Lex, Transcribe, CodePipeline, CloudFormation, Rekognition  
 *March 2021*
-- Developed a voice and text search-enabled photo album web app.
-- Integrated Amazon Lex for query handling and AWS Transcribe for speech recognition.
-- Deployed the application with AWS CodePipeline and CloudFormation.
+- Created a web app enabling keyword-based search through text or voice commands for photos.
+- Used AWS Lex for handling queries and AWS Transcribe for converting speech to text, with deployment on AWS CodePipeline.
 
 ---
 
@@ -119,4 +117,3 @@ With a background in Computer Science, I'm driven by a commitment to apply techn
 - **GitHub**: [github.com/akshitalakkad](https://github.com/akshitalakkad)
 
 ---
-
