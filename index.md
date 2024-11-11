@@ -7,7 +7,7 @@ title: "Akshita Lakkad | Welcome"
   <img src="assets/images/Akshita_Photo.jpeg" alt="Akshita Lakkad" class="profile-photo">
   <div class="profile-info">
     <h1>Welcome to my website!</h1>
-    <p>I'm Akshita Lakkad, a Software Engineer specializing in Machine Learning, Cloud Computing, and data-driven solutions. Currently, I'm advancing my career at Microsoft, where I apply my expertise to build intelligent and impactful systems. Feel free to explore my projects and connect with me!</p>
+    <p>I'm Akshita Lakkad, a Software Engineer at Microsoft with a focus on Cloud Computing, Machine Learning, and secure, scalable systems. My work spans developing AI-powered tools, CI/CD automation, and cloud infrastructure enhancements. Explore my projects, and feel free to connect!</p>
     <p><a href="Akshita_Lakkad_Resume.pdf" download>Download My Resume</a></p>
   </div>
 </div>
@@ -25,44 +25,46 @@ title: "Akshita Lakkad | Welcome"
 ---
 
 ## About Me <a name="about"></a>
-As a Software Engineer with a strong foundation in Computer Science, I’m driven by a passion for developing technologies that address complex challenges. At Microsoft, I work on Machine Learning models to enhance workflow efficiency, and my prior experience includes consulting roles that honed my skills in data management, automation, and cloud-based systems. My goal is to continually advance my expertise and contribute to innovative projects that make a measurable difference.
+With a background in Computer Science, I'm passionate about leveraging technology to solve complex problems. At Microsoft, I engineer solutions that enhance system reliability, security, and efficiency. My goal is to continually push the boundaries of my expertise in cloud technologies, machine learning, and scalable infrastructure. I believe in fostering a collaborative learning environment, as evidenced by my contributions to early-career training programs.
 
 ---
 
 ## Professional Experience <a name="experience"></a>
 
 ### Microsoft Corporation
-**Software Engineer Intern**  
-*May 2022 – Present*
-- Developed a machine learning model with 97% accuracy to predict build times for pull requests, improving CI pipeline efficiency.
-- Collaborated with cross-functional teams to unify data from various sources, creating a streamlined dataset for enhanced model performance.
-- Leveraged transfer learning to deploy an autoencoder neural network in an ML lifecycle workflow using Azure Kubernetes, with ongoing re-training for optimized results.
+**Software Engineer II**  
+*Present*
+- Engineered and maintained a cloud-based CI/CD system for Windows, enabling change management and automated testing, and ensuring high reliability and seamless deployment.
+- Developed a GenAI bot to automate customer support request responses within Azure, increasing adoption across partner teams to 70%.
+- Led a comprehensive security infrastructure overhaul, implementing a fully managed identity framework to replace static secrets.
+- Created robust health checks for Azure Functions, boosting system reliability by 32%, and improved code quality standards with a test coverage increase to over 70%.
+- Designed a mentoring portal for early-in-career engineers to foster cross-organizational mentorship and training.
 
-### NYU IT – High Performance Computing
-**Student Consultant**  
-*July 2021 – May 2022*
-- Conducted research on secure data environments, focusing on security frameworks and protocols for data management.
-- Developed workflows for data ingestion, transfer, and retrieval to optimize secure research data handling for NYU's HPC resources.
+**Software Engineer Intern**  
+*May 2022 – Aug 2022*
+- Built an ML model predicting build times for pull requests with 97% accuracy, streamlining the CI pipeline.
+- Unified diverse data sources into a primary dataset for more accurate feature analysis.
+- Leveraged transfer learning to implement an autoencoder neural network deployed within an Azure Kubernetes workflow.
 
 ### ZS Associates
 **Business Technology Analyst**  
 *June 2019 – January 2021*
-- Automated data warehousing operations and built dashboards for enhanced data analysis and optimization.
-- Streamlined client deliverable processes, reducing turnaround time by 50% and providing actionable insights through data analysis.
-- Led the implementation and maintenance of Sales Crediting systems on AWS, ensuring accurate data handling and trend analysis.
+- Automated data warehousing workflows and developed interactive dashboards, reducing client reporting time by 50%.
+- Managed and maintained Sales Crediting systems on AWS, which included automating Excel workflows to streamline client deliverables.
+- Conducted extensive data analysis on historical sales data to support client’s salesforce performance and goal-setting.
 
 ---
 
 ## Skills <a name="skills"></a>
 
 ### Programming Languages
-- Python, C++, Java, PHP
+- C#, Python, Java, PHP
 
 ### Web Technologies
 - HTML5, CSS, JavaScript, Bootstrap, Materialize
 
 ### Database and Warehousing
-- SQL, ETL, AWS EMR, AWS RedShift, S3, Hadoop, DynamoDB, Spark, Spark-SQL
+- SQL, ETL, Hadoop, DynamoDB, Spark, Spark-SQL, AWS, Azure
 
 ### Additional Skills
 - Machine Learning Algorithms, NLP, Tableau, Jupyter, Dash
@@ -87,26 +89,14 @@ As a Software Engineer with a strong foundation in Computer Science, I’m drive
 ### Reverse Visual Search
 **Technologies**: AWS, OpenSearch, DeepFace, ResNet CNN  
 *April 2022 – May 2022*
-- Created an image search engine that identifies visual artifacts, with baseline facial embeddings using ResNet50, later enhanced with FaceNet.
-- Deployed a kNN indexing instance in OpenSearch to locate images based on cosine similarity of facial embeddings.
+- Developed an image search engine that identifies artifacts based on visual queries using a ResNet50 baseline model, further enhanced with FaceNet.
+- Implemented a kNN indexing instance in OpenSearch to retrieve images based on cosine similarity of facial embeddings.
 
-### Stock Inflation Prediction by Social Media Analysis
-**Technologies**: AWS SageMaker, Kinesis, SQS, SNS, DynamoDB, Flask  
-*March 2021 – June 2021*
-- Developed sentiment analysis models with NLP techniques to identify bubble stocks, streaming data from platforms like Twitter and Reddit.
-- Built a regression model to provide high-return, low-risk portfolio insights, presented via a dynamic web app.
-
-### Spotify Data Prediction and Analytics
-**Technologies**: Python, Pandas, NumPy, SciPy  
-*June 2021 – August 2021*
-- Built a recommendation system predicting song skips with 90% accuracy, performing feature importance analysis using random forests.
-- Analyzed data from over 160,000 tracks to determine optimal ad timing and engagement strategies.
-
-### Smart Text-Voice Controlled Photo Album
-**Technologies**: AWS Lambda, Lex, Transcribe, CodePipeline, CloudFormation, Rekognition  
-*March 2021*
-- Created a web app enabling keyword-based search through text or voice commands for photos.
-- Used AWS Lex for handling queries and AWS Transcribe for converting speech to text, with deployment on AWS CodePipeline.
+### COVID-19 Face Mask Detector
+**Technologies**: VGG19 Classifier, OpenCV DNN Detector, TensorFlow, Keras  
+*April 2022 – May 2022*
+- Built a VGG19 CNN classifier from scratch to detect the presence of face masks, achieving 98% accuracy on test data.
+- Integrated a ResNet10 neural network to detect faces in images and videos, with further classification for mask detection.
 
 ---
 
