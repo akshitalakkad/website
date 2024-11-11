@@ -17,10 +17,9 @@ html {
 
 .profile-photo {
     border-radius: 50%;
-    width: 160px; /* Slightly larger for more emphasis */
-    height: 160px;
+    width: 150px;
+    height: 150px;
     margin-right: 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for profile photo */
 }
 
 .profile-info {
@@ -29,78 +28,14 @@ html {
 
 /* Experience section styling */
 .experience-item {
-    margin-bottom: 20px; /* Increased margin for better spacing */
+    margin-bottom: 15px;
 }
 
 .experience-item .role {
     font-weight: bold;
-    color: #005f99; /* A slightly deeper color to emphasize roles */
 }
 
 .experience-item .location-date {
     font-style: italic;
-    color: #666; /* Softer gray for a refined look */
-}
-
-/* Skills section styling */
-.skills {
-    margin-top: 30px;
-}
-
-.skill-category {
-    font-weight: bold;
-    font-size: 1.1em;
-    color: #007acc; /* Consistent color scheme for categories */
-    margin-top: 15px;
-    margin-bottom: 10px;
-}
-
-/* Contact Info styling */
-.contact-info {
-    list-style: none;
-    padding: 0;
-}
-
-.contact-info li {
-    margin-bottom: 10px;
-    font-size: 1.1em;
-}
-
-.contact-info a {
-    color: #007acc; /* Link color consistent with main theme */
-    text-decoration: none;
-}
-
-.contact-info a:hover {
-    text-decoration: underline;
-}
-
-/* Footer styling */
-footer {
-    background-color: #007acc;
-    color: #fff;
-    text-align: center;
-    padding: 15px 0;
-}
-
-footer a {
-    color: #fff;
-    text-decoration: underline;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .profile {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .profile-photo {
-        margin-right: 0;
-        margin-bottom: 20px;
-    }
-
-    .contact-info {
-        text-align: center;
-    }
+    color: #555;
 }
